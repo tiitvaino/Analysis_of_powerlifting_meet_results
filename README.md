@@ -10,5 +10,5 @@ Kaggle: https://www.kaggle.com/open-powerlifting/powerlifting-database?fbclid=Iw
 
 IDS2020 project information: https://docs.google.com/presentation/d/1Ldl_UVf3-GZkpof0rr3E-C5n8q1pDN4PSK4InFVq7wE/edit#slide=id.g2b7c3c841b_0_188
 
-Project intro wed.:https://docs.google.com/presentation/d/1fRqAWlIpUAKgAECPALabtxUP3LKDCB6Dc3iyZyBRXP8/edit#slide=id.g5405b9959a_4_5
+Project intro wed.: https://docs.google.com/presentation/d/1fRqAWlIpUAKgAECPALabtxUP3LKDCB6Dc3iyZyBRXP8/edit#slide=id.g5405b9959a_4_5
 
