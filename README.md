@@ -4,3 +4,5 @@ Slides link: https://docs.google.com/presentation/d/1p5AruemwHJht2R7oy1kXl_Ge10r
 
 Google drive link: https://drive.google.com/drive/folders/1m7UdXe4uQyvVMOy3wm7Od8xL6WlUmpbu?usp=sharing
 
+CRISP-DM: https://courses.cs.ut.ee/MTAT.03.183/2017_fall/uploads/Main/crisp_dm.pdf
+
