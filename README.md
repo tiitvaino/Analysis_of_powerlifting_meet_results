@@ -12,6 +12,8 @@ IDS2020 project information: https://docs.google.com/presentation/d/1Ldl_UVf3-GZ
 
 Project intro wed.: https://docs.google.com/presentation/d/1fRqAWlIpUAKgAECPALabtxUP3LKDCB6Dc3iyZyBRXP8/edit#slide=id.g5405b9959a_4_5
 
+Project poster: https://docs.google.com/presentation/d/1GwUD-EzZ2yqFVkimAJurYM4YRoSDHs2iFdknpAsI7bM/edit?usp=sharing
+
 # Introduction
 
 The goal of this machine learning algorithm is to predict the Wilks Coefficient (see description here: https://en.wikipedia.org/wiki/Wilks_Coefficient) by feeding the algorithm info about the name, age, weight, sex, date, birth year, whether the competitor was tested or not, what equipment was used (we are only looking at single-ply or raw competitions).
